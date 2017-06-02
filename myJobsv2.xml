@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with Notepad at Tue Feb 23 12:40:00 CDT 2016 -->
+
+
+ <Module>
+   <ModulePrefs title="myJobs" description="myJobs OpenSocial Gadget" author="Gregg Chen" height="900">
+     
+   </ModulePrefs>
+   <Content type="html"><![CDATA[
+   <div>
+  <iframe src="https://jobs.teledirectasia.com" width="500" height="900" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> 
+  </div>
+   
+   ]]>
+  </Content>
+ </Module>
+
+
